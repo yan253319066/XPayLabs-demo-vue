@@ -1,0 +1,3 @@
+This folder contains assets for the TechGadget Store.
+
+The application will automatically load crypto icons from external sources if local files are not available.
