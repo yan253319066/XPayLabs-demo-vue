@@ -1,8 +1,8 @@
-# XPay Labs Vue.js Demo — Crypto Payment E-Commerce Demo
+# XPay Labs (xpay) Vue.js Demo — Crypto Payment E-Commerce Demo
 
 English | [中文](README.zh.md)
 
-A full **Vue 3** e-commerce demo application that integrates the [XPay Labs](https://www.xpaylabs.com) self-hosted, non-custodial crypto payment gateway SDK. Demonstrates a complete shopping experience — product catalog, cart, checkout, and USDT/USDC payment on TRON, EVM chains, and SUI.
+A full **Vue 3** e-commerce demo application that integrates the [XPay Labs (xpay)](https://www.xpaylabs.com) self-hosted, non-custodial crypto payment gateway SDK. Demonstrates a complete shopping experience — product catalog, cart, checkout, and USDT/USDC payment on TRON, EVM chains, and SUI.
 
 ## Features
 

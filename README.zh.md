@@ -1,8 +1,8 @@
-# XPay Labs Vue.js Demo
+# XPay Labs（简称 xpay）Vue.js Demo
 
 [English](README.md) | 中文
 
-一个基于Vue.js的加密货币支付演示应用，集成了XPay Labs官方SDK，展示了如何在电商网站中实现加密货币支付功能。
+一个基于 Vue.js 的加密货币支付演示应用，集成了 [XPay Labs（简称 xpay）](https://www.xpaylabs.com) 官方 SDK，展示了如何在电商网站中实现加密货币支付功能。
 
 ## 🚀 项目特性
 
